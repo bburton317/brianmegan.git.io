@@ -1,0 +1,48 @@
+body {
+    /*background-image: url("images/landingpage.jpg");*/
+    /*background-size: cover;*/
+}
+
+h1 {
+    color: lightseagreen;
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Prata', serif;
+
+}
+
+div {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    max-width: 1200px;
+    border-radius: 10px;
+}
+
+.back {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("images/landingpage2.jpg");
+    background-size: cover;
+
+}
+
+.landing {
+
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: mediumpurple;
+    margin: auto;
+    
+}
+
+.description {
+    font-size: 2em;
+    color: mediumpurple;
+    font-weight: bold;
+
+}
